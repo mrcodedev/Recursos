@@ -5,7 +5,7 @@ Cosas relacionadas con esta distribución de Linux, desde comandos, hasta proble
 
 # Prevenir el Overheating en Portátiles Linux
 
-* [Enlace](https://itsfoss.com/reduce-overheating-laptops-linux/) - Recursos para reducir el calentamiento en portátiles con Linux
+* [Enlace](https://github.com/mrcodedev/Recursos/blob/master/ubuntu/overheating.md) - Recursos para reducir el calentamiento en portátiles con Linux
 
 
 License
