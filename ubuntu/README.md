@@ -7,6 +7,10 @@ Cosas relacionadas con esta distribución de Linux, desde comandos, hasta proble
 
 * [Enlace](https://github.com/mrcodedev/Recursos/blob/master/ubuntu/overheating.md) - Recursos para reducir el calentamiento en portátiles con Linux
 
+# Cambiar de posición los botones de GNOME de la ventana en consola
+
+* [Enlace](https://github.com/mrcodedev/Recursos/blob/master/ubuntu/overheating.md) - Recursos para reducir el calentamiento en portátiles con Linux
+
 
 License
 ----
