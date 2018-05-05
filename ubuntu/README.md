@@ -9,7 +9,7 @@ Aquí iré subiendo cosas de interés para mí, que pueda servir de ayuda a otra
 
 Cosas relacionadas con esta distribución de Linux, desde comandos, hasta problemas que me han surgido y he podido arreglar.
 
-* [Ubuntu](https://materializecss.com/) - Recursos que ver para Ubuntu
+* [Ubuntu](https://github.com/mrcodedev/Recursos/tree/master/ubuntu) - Recursos que ver para Ubuntu
 
 License
 ----
