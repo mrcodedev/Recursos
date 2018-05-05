@@ -32,6 +32,7 @@ Debería de estar en otras distribuciones también. Según comenta la gente que 
 
 Si tu configurar ACPI da algún error o quieres configurar más sensores, puedes editar el archivo de configuración de thermald XML, ubicado en _**/etc/thermald/thermal-conf.xml**_. Si quieres tener más información sobre esto, consulta la página de man de thermal-conf.xml ("_**man thermal-conf.xml**_").
 
+## Intel_PState
 intel_pstate es un nuevo controlador de escala de potencia para las CPU Intel modernas (admite procesadores Intel SandyBridge+). Según Arjan van de Ven de Intel, ondemand no debería usarse más y, en cambio, los procesadores Intel modernos deberían usar Intel P-state.
 
 * [Documentación Driver P-State Intel-](https://github.com/mrcodedev/Recursos/blob/master/ubuntu/overheating/intel-pstate.txt) - P-State Text 
