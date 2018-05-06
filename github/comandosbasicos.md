@@ -67,6 +67,12 @@ Importante **siempre** de utilizar los tres comandos, o no vas a poder hacer nad
 
 Para aprender como funciona Git puedes hacer el siguiente tutorial: https://try.github.io/levels/1/challenges/1
 
+## Añadir archivos nuevos del repositorio
+Si en el repositorio se han añadido archivos nuevos y en local no, debemos de hacer un pull con el siguiente comando:
+```
+git pull origin master
+```
+
 ## Ignorar archivos o carpetas
 Para ignorar archivos o carpetas que tengamos, sólo debemos de insertar un archivo llamado .gitignore en la raíz de nuestro proyecto y añadir carpetas o archivos. Un ejemplo sería este:
 
