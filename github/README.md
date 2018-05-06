@@ -11,7 +11,7 @@ Aquí pondré comandos esenciales, o cosas que me vaya encontrando de Github com
 
 License
 ----
-MIT
+[GNU General Public License v3.0](https://github.com/mrcodedev/iwibot/blob/master/LICENSE)
 
 .
 ----

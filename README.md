@@ -20,7 +20,7 @@ Cosas relacionadas con Github o git. Dudas que pueda tener y suba las soluciones
 
 License
 ----
-MIT
+[GNU General Public License v3.0](https://github.com/mrcodedev/iwibot/blob/master/LICENSE)
 
 .
 ----
