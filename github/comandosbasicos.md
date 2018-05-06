@@ -57,6 +57,12 @@ git commit -m "comentario"
 git push
 ```
 
+Si no funciona el push hacer esto
+
+```
+git push -f origin master.
+```
+
 Importante **siempre** de utilizar los tres comandos, o no vas a poder hacer nada.
 
 Para aprender como funciona Git puedes hacer el siguiente tutorial: https://try.github.io/levels/1/challenges/1
