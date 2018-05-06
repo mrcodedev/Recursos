@@ -3,9 +3,9 @@
 
 Aquí pondré comandos esenciales, o cosas que me vaya encontrando de Github como también de Git.
 
-# Comandos básicos para mí que soy un paquete
+# Comandos básicos para iniciarse en git
 
-* [Enlace](https://github.com/mrcodedev/Recursos/blob/master/ubuntu/overheating.md) - Comandos básicos para empezar con Github y Git
+* [Enlace](https://github.com/mrcodedev/Recursos/blob/master/github/comandosbasicos.md) - Comandos básicos para empezar con Github y Git
 
 
 
