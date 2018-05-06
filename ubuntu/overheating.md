@@ -165,7 +165,7 @@ Esta herramienta no entra en conflicto con ninguna de las anteriores mencionadas
 
 License
 ----
-MIT
+[GNU General Public License v3.0](https://github.com/mrcodedev/iwibot/blob/master/LICENSE)
 
 .
 ----

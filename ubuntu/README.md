@@ -14,7 +14,7 @@ Cosas relacionadas con esta distribución de Linux, desde comandos, hasta proble
 
 License
 ----
-MIT
+[GNU General Public License v3.0](https://github.com/mrcodedev/iwibot/blob/master/LICENSE)
 
 .
 ----

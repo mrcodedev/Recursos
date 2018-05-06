@@ -19,7 +19,7 @@ gsettings set org.gnome.desktop.wm.preferences button-layout ':close,maximize,mi
 
 License
 ----
-MIT
+[GNU General Public License v3.0](https://github.com/mrcodedev/iwibot/blob/master/LICENSE)
 
 .
 ----
